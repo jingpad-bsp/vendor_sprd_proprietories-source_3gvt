@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"โทรกลับโดยใช้การโทรโดยใช้วิดีโอ"</string>
+<string name="videophone_failcause_1000">"ไม่ได้วางสายการโทรโดยใช้วิดีโอครั้งล่าสุดตามปกติ โปรดรอสักครู่ จากนั้นจึงลองอีกครั้ง"</string>
+<string name="videophone_failcause_1">"หมายเลขที่คุณโทรติดต่อไม่เปิดให้บริการ"</string>
+<string name="videophone_failcause_3">"ไม่สามารถติดต่อผู้ใช้ได้"</string>
+<string name="videophone_failcause_8">"ระงับการโทรแล้ว"</string>
+<string name="videophone_failcause_17">"ผู้ใช้ไม่ว่าง"</string>
+<string name="videophone_failcause_19">"ผู้ใช้ที่คุณโทรติดต่อไม่ตอบสนอง"</string>
+<string name="videophone_failcause_27">"ไม่สามารถติดต่อผู้ใช้ได้"</string>
+<string name="videophone_failcause_34">"ยกเลิกการเชื่อมต่อแล้ว"</string>
+<string name="videophone_failcause_63_modify">"ไม่สามารถโทรโดยใช้วิดีโอได้"</string>
+<string name="videophone_failcause_79">"อีกฝ่ายไม่รองรับ VT"</string>
+<string name="videophone_failcause_47">"ขออภัย ไม่สามารถใช้งานการโทรโดยใช้วิดีโอได้"</string>
+<string name="videophone_failcause_50">"ไม่รองรับ VT"</string>
+<string name="videophone_failcause_57_remote">"หมายเลขที่คุณโทรติดต่อไม่รองรับ VT"</string>
+<string name="videophone_failcause_58">"อีกฝ่ายไม่รองรับ VT"</string>
+<string name="videophone_failcause_157">"โทรศัพท์มือถือยังไม่ได้เริ่มใช้บริการ VT"</string>
+<string name="videophone_failcause_88">"ผู้ใช้เลือกการโทรด้วยเสียง"</string>
+<string name="videophone_failcause_minus_1">"ไม่สามารถใช้บริการ 3G ได้"</string>
+<string name="videophone_failcause_default">"ไม่สามารถติดต่อผู้ใช้ได้"</string>
+<string name="net_connection_disconnect">"การเชื่อมต่อเน็ตถูกยกเลิกการเชื่อมต่อ"</string>
+<string name="no_vt_service">"ไม่สามารถโทรออกโดยใช้การโทรโดยใช้วิดีโอได้"</string>
+<string name="remote_request_change">"คู่สนทนาขอเปลี่ยนสื่อ"</string>
+<string name="choose_accept_reject">"โปรดเลือกยอมรับหรือปฏิเสธ"</string>
+<string name="remote_request_change_accept">"ยอมรับ"</string>
+<string name="remote_request_change_reject">"ปฏิเสธ"</string>
+<string name="remote_reject_request">"ปฏิเสธคำขอจากคู่สนทนาแล้ว"</string>
+<string name="remote_accept_request">"ยอมรับคำขอจากคู่สนทนาแล้ว"</string>
+<string name="callFailed_fdn_only">"การโทรออกถูกจำกัดโดย FDN"</string>
+<string name="videophone_fallback_menu_videocall">"โทรโดยใช้วิดีโอ"</string>
+<string name="videophone_fallback_menu_voicecall">"โทรด้วยเสียง"</string>
+<string name="videophone_fallback_menu_cancel">"ยกเลิก"</string>
+<string name="videophone_fallback_question">"คุณต้องการทำอะไร?"</string>
+</resources>

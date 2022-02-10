@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="videophone_fallback_title">"Recuo de Chamada de vídeo"</string>
+<string name="videophone_failcause_1000">"A última chamada de vídeo não terminou  normalmente, tente novamente depois de um tempo"</string>
+<string name="videophone_failcause_1">"O número que você discou não está em serviço"</string>
+<string name="videophone_failcause_3">"Usuário não está disponível"</string>
+<string name="videophone_failcause_8">"Chamada barrada"</string>
+<string name="videophone_failcause_17">"Usuário ocupado"</string>
+<string name="videophone_failcause_19">"Usuário que você discou não está respondendo"</string>
+<string name="videophone_failcause_27">"O usuário não pode ser acessado"</string>
+<string name="videophone_failcause_34">"Conexão desconectada"</string>
+<string name="videophone_failcause_63_modify">"O telefone de vídeo não pôde ser estabelecido"</string>
+<string name="videophone_failcause_79">"VT não suportado por outro"</string>
+<string name="videophone_failcause_47">"Desculpe, chamada de vídeo indisponível"</string>
+<string name="videophone_failcause_50">"VT não é suportado"</string>
+<string name="videophone_failcause_57_remote">"O número que você entrou não suporta VT"</string>
+<string name="videophone_failcause_58">"VT não suportado por outro"</string>
+<string name="videophone_failcause_157">"O telefone celular não iniciou o serviço VT"</string>
+<string name="videophone_failcause_88">"Usuário escolhe chamada de voz"</string>
+<string name="videophone_failcause_minus_1">"Serviço 3G não disponível"</string>
+<string name="videophone_failcause_default">"Usuário não está disponível"</string>
+<string name="net_connection_disconnect">"Conexão à rede desligar"</string>
+<string name="no_vt_service">"Não é possível fazer chamadas de vídeo"</string>
+<string name="remote_request_change">"Mudança de mídia de solicitação remota"</string>
+<string name="choose_accept_reject">"Favor escolha aceitar ou rejetar"</string>
+<string name="remote_request_change_accept">"Aceitar"</string>
+<string name="remote_request_change_reject">"Rejeitar"</string>
+<string name="remote_reject_request">"Pedido remoto rejeitado"</string>
+<string name="remote_accept_request">"Pedido remoto aceito"</string>
+<string name="callFailed_fdn_only">"Chamadas de saída estão restritas por FDN"</string>
+<string name="videophone_fallback_menu_videocall">"Chamada de vídeo"</string>
+<string name="videophone_fallback_menu_voicecall">"Chamada de voz"</string>
+<string name="videophone_fallback_menu_cancel">"Cancelar"</string>
+<string name="videophone_fallback_question">"O que você quer fazer?"</string>
+</resources>

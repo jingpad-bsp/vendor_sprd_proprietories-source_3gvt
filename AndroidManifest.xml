@@ -1,0 +1,35 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.spreadtrum.csvt"
+    coreApp="true"
+    android:versionCode="1"
+    android:versionName="1.0.0"
+    android:sharedUserId="android.uid.phone" >
+
+    <uses-sdk android:minSdkVersion="25"/>
+
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+
+    <application
+        android:name="CsvtApp"
+        android:allowBackup="false"
+        android:process="com.android.phone"
+        android:defaultToDeviceProtectedStorage="true"
+        android:directBootAware="true" >
+        <receiver android:name=".CsvtBroadcastReceiver" >
+            <!--<intent-filter android:priority="2147483647">
+                <action android:name="android.intent.action.SIM_STATE_CHANGED" />
+            </intent-filter>-->
+        </receiver>
+        <service
+            android:name=".CsvtService"
+            android:permission="android.permission.BIND_IMS_SERVICE"
+            android:enabled="true"
+            android:exported="true"
+            android:process="com.android.phone">
+             <intent-filter>
+                 <action android:name="android.telephony.csvt.CsvtService" />
+             </intent-filter>
+        </service>
+    </application>
+
+</manifest>
